@@ -5,12 +5,12 @@ A place where your network thrives.
 Thrive is a smart visiting card which allows you to scan the QR code and send a linkedin connect request to the host.
 
 Walk-through of the application-
-You download the app and upon opeing the app, you land on the home page which is the Login page.
-If you are a new user, you sign up and then login using your creds.
-Upon succesfull login you land on the home page of the application where you can get your QR code scanned and let the other users send you a connect request.
-You can click on the "Expand your Network" button to open up your QR code scanner to scan other user's code to send a connect request.
-
-
+- Download the App.
+- User lands on the Login Page
+- New User needs to get registered, sign up and login with the entered credentials.
+- Upon successful registration, user lands on the home page.
+- QR Code Screen, where other users can send you a connection request via scanning the QR.
+- User can click on the "Expand your Network" button to open up the QR scanner, where the user can scan other user's QR to send a connection request.
 
 Relevant Resources
 
